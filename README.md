@@ -32,7 +32,7 @@ A dynamic quiz application built with React that features timed quizzes, score t
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/vikasyadav01234/quiz-app.git
+git clone https://github.com/vikasyadav01234/quiz-application.git
 cd quiz-app
 ```
 
@@ -143,4 +143,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Your Name - [@vikasyadav01234](https://github.com/vikasyadav01234)
 
-Project Link: [https://github.com/vikasyadav01234/quiz-app](https://github.com/vikasyadav01234/quiz-app)
+Project Link: [https://github.com/vikasyadav01234/quiz-application](https://github.com/vikasyadav01234/quiz-application)
